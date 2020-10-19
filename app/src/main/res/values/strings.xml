@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BelajarMencongak</string>
+    <string name="alertMessage">
+        Saat anda menekan OK, maka timer akan dimulai dan anda
+        dapat memulai mengerjakan soal yang ada. Tekan enter pada
+        keyboard anda untuk mengirim jawaban. Game akan berhenti
+        saat timer sudah habis
+    </string>
+</resources>
